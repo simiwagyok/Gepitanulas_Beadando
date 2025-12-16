@@ -1,0 +1,15 @@
+# Jupyter Notebook átmeneti fájlok (EZ A LEGFONTOSABB!)
+.ipynb_checkpoints/
+
+# Python átmeneti fájlok
+__pycache__/
+*.py[cod]
+
+# Virtuális környezetek (ha van ilyened, ebben van a sok ezer fájl)
+.venv/
+venv/
+env/
+ENV/
+
+# VS Code beállítások (nem kell feltölteni)
+.vscode/
